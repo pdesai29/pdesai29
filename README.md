@@ -7,9 +7,10 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=pdesai29&label=Profile%20views&color=0e75b6&style=flat" alt="pdesai29" />
  </p>
+ 
 - 🌱 I’m currently learning **SvelteKit**
 
-- 👨‍💻 All of my projects are available at [pranaydesai.com](www.pranaydesai.com)
+- 👨‍💻 Checkout my portfolio and projects at [pranaydesai.com](https://pranaydesai.com)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
