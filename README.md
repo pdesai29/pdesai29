@@ -3,7 +3,7 @@
 <h1 align="center">Hi There 🙌, I'm Pranay</h1>
 <h2 align="center">I am a multifaceted developer with a passion for music, games, movies, and all things tech.</h2>
 <h3 align="right">💛 for (strength in body) dedicate();</h3>
-<img align="right" alt="coding" width="600" margin-top="20px" src="/side.gif">
+<img align="right" alt="coding" width="500" margin-top="20px" src="/side.gif">
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=pdesai29&label=Profile%20views&color=0e75b6&style=flat" alt="pdesai29" />
  </p>
@@ -27,7 +27,7 @@
 </a><a href="https://www.leetcode.com/pdesai29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pdesai29" height="30" width="40" />
 </a></p>
 <h2 align="right"> 💛 Hardstyle music</h2>
-<img align="right" alt="coding" width="600" margin-top="20px" src="/rave-shuffle.gif">
+<img align="right" alt="coding" width="500" margin-top="20px" src="/rave-shuffle.gif">
 <h3 align="left">Languages :</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -105,7 +105,7 @@
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 </a>
 <h2 align="right">🤝 Thanks For Visit</h2>
-<img align="right" alt="coding" width="600" margin-top="20px" src="/cartoon-batman-approves-mrgthhmrtd7ukueh.gif">
+<img align="right" alt="coding" width="500" margin-top="20px" src="/cartoon-batman-approves-mrgthhmrtd7ukueh.gif">
 
 <h3 align="left"> Cloud Platforms and Tools :</h3>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
