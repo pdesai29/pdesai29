@@ -104,7 +104,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 </a>
-<h2 align="right">🤝 Thanks For Visit</h2>
+<h2 align="right">🤝 Thanks For Visiting</h2>
 <img align="right" alt="coding" width="500" margin-top="20px" src="/cartoon-batman-approves-mrgthhmrtd7ukueh.gif">
 
 <h3 align="left"> Cloud Platforms and Tools :</h3>
